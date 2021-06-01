@@ -1,0 +1,10 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "search.useIgnoreFiles": false
+}
